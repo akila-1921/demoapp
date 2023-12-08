@@ -1,0 +1,8 @@
+.container1{
+    width: 1000px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: linear-gradient(to right,rgb(73, 201, 218),rgb(148, 237, 204));
+    position: absolute;
+    left: 250px;
+}

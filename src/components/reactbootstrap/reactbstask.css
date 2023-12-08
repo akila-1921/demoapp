@@ -1,0 +1,66 @@
+.First_box{
+    margin: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);   
+}
+.Second_box{
+    margin: 50px;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);
+}
+.Third_box{
+    margin: 50px;
+    position: absolute; 
+    top: 10px;
+    left: 800px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);
+}
+.Fourth_box{          
+    margin: 50px;
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);
+}
+.Fifth_box{
+    margin: 50px;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);
+}
+.Sixth_box{
+    margin: 50px;
+    position: absolute;
+    top: 400px;
+    left: 800px;
+    box-shadow: 10px 10px 10px 10px rgb(196, 195, 195);
+}
+.First_box:hover {
+    top: 0px;
+    transition: 0.8s;
+  }
+.Second_box:hover {
+    top: 0px;
+    transition: 0.8s;
+  }
+.Third_box:hover {
+    top: 0px;
+    transition: 0.8s;
+  }
+.Fourth_box:hover {
+    top: 385px;
+    transition: 0.8s;
+  }
+.Fifth_box:hover {
+    top: 385px;
+    transition: 0.8s;
+  }
+.Sixth_box:hover {
+    top: 385px;
+    transition: 0.8s;
+  }

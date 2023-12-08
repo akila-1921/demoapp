@@ -1,0 +1,90 @@
+.Exp_heading{
+    width: 300px;
+    height: 80px;
+    position: absolute;
+    left: 500px;
+    top: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+.Adding_exp{
+    width: 700px;
+    height: 110px;
+    background-color:cadetblue;
+    position: absolute;
+    left: 300px;
+    top: 160px;
+    border-radius: 30px;
+}
+.Table_contents{
+    width: 800px;
+    height: 300px;
+    background-color:  rgb(47, 164, 164);
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    border-radius:30px;
+    text-align: center;
+}
+.pageonebtn{
+    width: 400px;
+    height: 70px;
+    position: absolute;
+    left: 150px;
+    top: 18px;
+    background-color: rgb(47, 164, 164);
+    border-radius: 30px;
+    border: 0px solid white;
+
+}
+.inp_btn{
+    width: 300px;
+    height: 30px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+.Adding_table{
+    width: 400px;
+    height: 70px;
+    position: absolute;
+    left: 150px;
+    top: 18px;
+    background-color: rgb(47, 164, 164);
+    border-radius: 30px;
+    border: 0px solid white;
+
+}
+.Table{
+    width: 400px;
+    height: 70px;
+    position: absolute;
+    left: 150px;
+    top: 18px;
+    background-color: rgb(47, 164, 164);
+    border-radius: 30px;
+    border: 0px solid white;
+
+}
+.filter{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    left: 10px;
+    top: 350px;
+    background-color: rgb(126, 126, 126);
+    border-radius: 50px;
+}
+.product_lists{
+    width: 1000px;
+    height: 400px;
+    background-color:lavenderblush;
+    position: absolute;
+    top: 500px;
+    left: 180px;
+}
+table{
+    width: 100%;
+    border: 2px solid black;
+}
